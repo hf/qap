@@ -1,6 +1,8 @@
 QAP
 ===
 
+[![Build Status](https://travis-ci.org/hf/qap.svg)](https://travis-ci.org/hf/qap)
+
 An implementation of Quadratic Arithmetic Programs, originally presented by
 Rosario Gennaro, Craig Gentry, Bryan Parno and Mariana Raykova in the
 [paper](http://eprint.iacr.org/2012/215) "Quadratic Span Programs and Succinct
