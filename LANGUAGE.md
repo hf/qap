@@ -75,14 +75,14 @@ sets.
 
 ```
 # these are inputs to the QAP
-a = input
-b = input
-c = input
+a = input;
+b = input;
+c = input;
 
 # a multiplicative gate definition
-gate add2(a, b): (0 + 1 * a + 1 * b) * (1)
+gate add2(a, b): (0 + 1 * a + 1 * b) * (1);
 
 # outputs
-p = add2(a, b)
-q = add2(c, p)
+p = add2(a, b);
+q = add2(c, p);
 ```

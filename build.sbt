@@ -24,6 +24,8 @@ libraryDependencies += "org.scalamock" %% "scalamock-scalatest-support" % "3.2" 
 
 libraryDependencies += "me.stojan" %% "polynome" % "0.0.1-SNAPSHOT"
 
-libraryDependencies += "me.stojan" %% "reunion" % "0.0.1-SNAPSHOT"
+libraryDependencies += "me.stojan" %% "reunion" % "0.0.2-SNAPSHOT"
 
-libraryDependencies += "me.stojan" %% "reunion-polynomials" % "0.0.1-SNAPSHOT"
+libraryDependencies += "me.stojan" %% "reunion-polynomials" % "0.0.2-SNAPSHOT"
+
+libraryDependencies += "org.parboiled" %% "parboiled" % "2.1.0"
